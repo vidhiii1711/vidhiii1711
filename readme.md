@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Vidhi%20Singh%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=180&section=header&text=Hey,%20I'm%20Vidhi%20Singh%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C147E9&center=true&vCenter=true&width=600&lines=Building+backends.+Breaking+bugs.+Shipping+fast.+%F0%9F%9A%80;%F0%9F%92%9C+Purple-pink+dev+vibes;Solo-shipped+a+full+MERN+healthcare+platform" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vidhi_1711/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidhiii1711)
-[![Location](https://img.shields.io/badge/📍%20Jabalpur,%20MP-India-orange?style=for-the-badge)](https://github.com/vidhiii1711)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF6FB5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vidhi_1711/)
+[![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidhiii1711)
+[![Location](https://img.shields.io/badge/📍%20Jabalpur,%20MP-India-B14EFF?style=for-the-badge)](https://github.com/vidhiii1711)
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 💜 About Me
 
 ```javascript
 const vidhi = {
@@ -110,14 +112,14 @@ const vidhi = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidhiii1711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhiii1711&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidhiii1711&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF6FB5&icon_color=C147E9&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhiii1711&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF6FB5&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vidhiii1711&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vidhiii1711&theme=dracula&hide_border=true&background=00000000&ring=C147E9&fire=FF6FB5&currStreakLabel=FF6FB5)](https://git.io/streak-stats)
 
 </div>
 
@@ -139,17 +141,14 @@ const vidhi = {
 
 ---
 
-
----
-
 <div align="center">
 
-### 🤝 Let's Connect!
+### 💜 Let's Connect!
 
-*"I build things that work — cleanly, efficiently, and with purpose."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=550&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+with+purpose." alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=100&section=footer" />
 
 </div>
