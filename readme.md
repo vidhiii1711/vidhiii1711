@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=2,4,30&height=160&section=header&text=Hey,%20I'm%20Vidhi%20Singh%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=68&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=C147E9&center=true&vCenter=true&width=750&lines=Building+backends.+Breaking+bugs.+Shipping+fast.+%F0%9F%9A%80;Solo-shipped+a+full+MERN+healthcare+platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=18&duration=3000&pause=900&color=C147E9&center=true&vCenter=true&width=750&lines=Building+backends.+Breaking+bugs.+Shipping+fast.+%F0%9F%9A%80;Solo-shipped+a+full+MERN+healthcare+platform" alt="Typing SVG" />
 
 </div>
 
@@ -145,7 +145,7 @@ const vidhi = {
 
 ### 💜 Let's Connect!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=700&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+and+with+purpose." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=15&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=700&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+and+with+purpose." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-B14EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vidhiportfolio-liart.vercel.app/)
