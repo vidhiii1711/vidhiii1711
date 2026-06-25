@@ -10,9 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF6FB5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vidhi_1711/)
-[![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidhiii1711)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B14EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vidhiportfolio-liart.vercel.app/)
-[![Location](https://img.shields.io/badge/📍%20Jabalpur,%20MP-India-FF6FB5?style=for-the-badge)](https://github.com/vidhiii1711)
 
 </div>
 
