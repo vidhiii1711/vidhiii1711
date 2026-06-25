@@ -145,7 +145,7 @@ const vidhi = {
 
 ### 💜 Let's Connect!
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=19&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=700&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+and+with+purpose." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=700&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+and+with+purpose." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
 [![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-B14EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vidhiportfolio-liart.vercel.app/)
