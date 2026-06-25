@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=180&section=header&text=Hey,%20I'm%20Vidhi%20Singh%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=2,4,30&height=160&section=header&text=Hey,%20I'm%20Vidhi%20Singh%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=68&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C147E9&center=true&vCenter=true&width=600&lines=Building+backends.+Breaking+bugs.+Shipping+fast.+%F0%9F%9A%80;%F0%9F%92%9C+Purple-pink+dev+vibes;Solo-shipped+a+full+MERN+healthcare+platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=C147E9&center=true&vCenter=true&width=750&lines=Building+backends.+Breaking+bugs.+Shipping+fast.+%F0%9F%9A%80;Solo-shipped+a+full+MERN+healthcare+platform" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF6FB5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vidhi_1711/)
 [![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidhiii1711)
-[![Location](https://img.shields.io/badge/📍%20Jabalpur,%20MP-India-B14EFF?style=for-the-badge)](https://github.com/vidhiii1711)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B14EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vidhiportfolio-liart.vercel.app/)
+[![Location](https://img.shields.io/badge/📍%20Jabalpur,%20MP-India-FF6FB5?style=for-the-badge)](https://github.com/vidhiii1711)
 
 </div>
 
@@ -27,6 +28,7 @@ const vidhi = {
   currentFocus: "Building AI-powered web apps with MERN stack",
   openSource: "GSSoC'26 Contributor 🌱",
   achievement: "NPTEL Elite Certificate — Joy of Computing using Python (80%) 🎓",
+  portfolio: "https://vidhiportfolio-liart.vercel.app/",
   funFact: "I turn complex problems into clean backend solutions ☕"
 };
 ```
@@ -145,10 +147,11 @@ const vidhi = {
 
 ### 💜 Let's Connect!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=550&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+with+purpose." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=FF6FB5&center=true&vCenter=true&width=700&lines=I+build+things+that+work+%E2%80%94+cleanly%2C+efficiently%2C+and+with+purpose." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-C147E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-singh-b12044361)
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-B14EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vidhiportfolio-liart.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=2,4,30&height=80&section=footer" />
 
 </div>
